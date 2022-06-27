@@ -1,0 +1,32 @@
+{
+  "name": "ecommercebackend",
+  "version": "1.0.0",
+  "description": "Ecommerce Backend using JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.0",
+    "nodemon": "^2.0.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akgone38/EcommerceBackend.git"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akgone38/EcommerceBackend/issues"
+  },
+  "homepage": "https://github.com/akgone38/EcommerceBackend#readme"
+}
